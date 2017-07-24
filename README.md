@@ -50,3 +50,5 @@
 11.[JsonView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?utm_source=chrome-app-launcher-info-dialog)  Json解析工具
 
 12.[Avatars-For-Github](https://chrome.google.com/webstore/detail/avatars-for-github/pgjmdbklnfklcjfbonjfkdhaonlfogbb?utm_source=chrome-app-launcher-info-dialog) Github头像显示插件
+
+13.[Insight.io](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh/related)  Github阅读代码必备神奇，比Octotree好用很多，个人比较推荐
